@@ -1,7 +1,7 @@
 # Optimization-of-Trade-Settlement-Process-in-Capital-Market
 This project focuses on improving trade settlement processes in our capital market firm by streamlining workflows, enhancing automation, and ensuring compliance, ultimately reducing losses and increasing efficiency.
 
-Certainly! Trade settlement optimization is a crucial process in financial markets to ensure efficient and timely settlement of trades. As a product analyst, your role might involve optimizing this process to enhance operational efficiency and reduce risks. Here's a quick example:
+Certainly! Trade settlement optimization is a crucial process in financial markets to ensure efficient and timely settlement of trades. As a analyst, your role might involve optimizing this process to enhance operational efficiency and reduce risks. Here's a quick example:
 
 ## Scenario:
 Let's consider a scenario where your organization regularly trades financial instruments, such as stocks, in different markets. The settlement process involves multiple steps, including trade confirmation, reconciliation, and actual settlement.
