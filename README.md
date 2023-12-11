@@ -6,10 +6,10 @@ Certainly! Trade settlement optimization is a crucial process in financial marke
 ## Scenario:
 Let's consider a scenario where your organization regularly trades financial instruments, such as stocks, in different markets. The settlement process involves multiple steps, including trade confirmation, reconciliation, and actual settlement.
 
-###Current State:
+### Current State:
 Currently, the trade settlement process takes a considerable amount of time, leading to delayed settlements and increased operational costs. There are instances of manual errors in the reconciliation process, and communication gaps between different teams involved in the settlement.
 
-###Optimization Steps:
+### Optimization Steps:
 
 1) Automation of Confirmation Process:
 Implement automated systems for trade confirmation. This can involve the use of smart contracts or automated messaging systems to confirm trades swiftly and accurately. Automation reduces the chances of errors in the confirmation stage.
