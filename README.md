@@ -36,9 +36,11 @@ Minimized operational costs due to automation and reduced manual efforts.
 Improved accuracy in trade settlements, reducing the risk of financial losses.
 Enhanced overall efficiency in the trade settlement process.
 
-### Here's a more Project Initiation:
+### Here's a more detailed breakdown of the stages in the business analysis process for a project starting from scratch, including templates and methods you can use at each stage:
 
-##### Template: Project Charter
+1. Project Initiation:
+
+Template: Project Charter
 Methods: Define the project's objectives, scope, and business goals. Create a project charter that outlines the purpose, stakeholders, roles, and responsibilities.
 2. Stakeholder Analysis:
 
@@ -114,4 +116,4 @@ Methods: Identify potential risks and uncertainties associated with the project.
 
 20. Knowledge Transfer:
 - Template: Knowledge Transfer Plan
-- Methods: Ensure that knowledge and documentation are transferred to the operational teams for ongoing maintenance and support. Develop a Knowledge Transfer Plan outlining the process. detailed breakdown of the stages in the business analysis process for a project starting from scratch, including templates and methods you can use at each stage:
+- Methods: Ensure that knowledge and documentation are transferred to the operational teams for ongoing maintenance and support. Develop a Knowledge Transfer Plan outlining the process.
