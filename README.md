@@ -39,9 +39,8 @@ Enhanced overall efficiency in the trade settlement process.
 ### Here's a more detailed breakdown of the stages in the business analysis process for a project starting from scratch, including templates and methods you can use at each stage:
 
 1. Project Initiation:
-Template: Project Charter
 Methods: Define the project's objectives, scope, and business goals. Create a project charter that outlines the purpose, stakeholders, roles, and responsibilities.
 
 2. Stakeholder Analysis:
-Template: Stakeholder Analysis Matrix
 Methods: Identify and categorize stakeholders. Use a Stakeholder Analysis Matrix to document their interests, influence, and communication preferences.
+
